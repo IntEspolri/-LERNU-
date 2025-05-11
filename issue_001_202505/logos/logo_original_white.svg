@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2036.24 1080.78">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-1, .cls-2 {
+        font-family: BERNIERRegular-Regular, 'BERNIER Regular';
+        font-size: 73.85px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        fill: url(#_未命名的渐变_7);
+      }
+
+      .cls-5, .cls-6, .cls-7, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-6 {
+        fill: none;
+      }
+
+      .cls-8 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-9 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-7 {
+        fill: url(#_未命名的渐变_6);
+      }
+
+      .cls-3 {
+        font-family: Bauhaus93, 'Bauhaus 93';
+        font-size: 247.91px;
+      }
+    </style>
+    <clipPath id="clippath">
+      <path class="cls-6" d="M509.2,362.78l-311.04,63.43c-17.65,3.6-31.31,17.63-34.43,35.38l-27.5,156.25c-2.65,15.06,2.74,30.42,14.22,40.53l191.74,168.8c23.01,20.26,59.18,11.26,70.02-17.42l146.79-388.49c12.2-32.3-15.97-65.38-49.8-58.48Z"/>
+    </clipPath>
+    <linearGradient id="_未命名的渐变_6" data-name="未命名的渐变 6" x1="231.89" y1="346.03" x2="930.88" y2="346.03" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="blue"/>
+      <stop offset=".39" stop-color="#cf3333"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_7" data-name="未命名的渐变 7" x1="87.7" y1="432.18" x2="250.12" y2="432.18" gradientUnits="userSpaceOnUse">
+      <stop offset=".22" stop-color="lime"/>
+      <stop offset="1" stop-color="blue"/>
+    </linearGradient>
+    <clipPath id="clippath-1">
+      <path class="cls-6" d="M556.92,353.05l-343.94,70.14c-26.6,5.42-47.17,26.56-51.88,53.29l-29.14,165.61,257.82,226.98,186.43-493.37c4.73-12.51-6.18-25.33-19.29-22.66Z"/>
+    </clipPath>
+  </defs>
+  <g class="cls-9">
+    <path class="cls-7" d="M697.64,22.37c-178.28-67.37-377.41,22.55-444.78,200.83-67.37,178.28,33.98,379.13,212.26,446.5s377.41-22.55,444.78-200.83c67.37-178.28-33.98-379.13-212.26-446.5ZM786.48,422.23c-41.61,110.11-164.6,165.65-274.72,124.04-110.11-41.61-177.08-166.32-135.48-276.44,41.61-110.11,164.6-165.65,274.72-124.04,110.11,41.61,177.08,166.32,135.48,276.44Z"/>
+    <circle class="cls-4" cx="131.96" cy="642.09" r="131.94"/>
+    <circle class="cls-5" cx="168.91" cy="432.18" r="81.2"/>
+    <path class="cls-4" d="M465.12,669.7c-110.11-41.61-233.11,13.93-274.72,124.04-41.61,110.11,2.49,231.39,112.61,273,110.11,41.61,244.54-12.21,286.15-122.32,41.61-110.11-13.93-233.11-124.04-274.72ZM520.36,891.95c-12.63,71.77-92.48,117.99-164.25,105.36s-108.27-79.33-95.64-151.1c12.63-71.77,81.05-119.71,152.81-107.08s119.71,81.05,107.08,152.81Z"/>
+  </g>
+  <g class="cls-8">
+    <path class="cls-4" d="M560.7,496.9c-81.93-14.42-147.97-94.99-133.39-177.83,14.58-82.85,92.82-138.32,174.75-123.9,81.93,14.42,147.97,94.99,133.39,177.83-14.58,82.85-92.82,138.32-174.75,123.9Z"/>
+  </g>
+  <text class="cls-3" transform="translate(581.39 751.76)"><tspan x="0" y="0">IntEsplori </tspan></text>
+  <text class="cls-1" transform="translate(1607.9 616.81)"><tspan x="0" y="0">©/</tspan></text>
+  <text class="cls-2" transform="translate(1754.54 616.81) rotate(-180) scale(1 -1)"><tspan x="0" y="0">©</tspan></text>
+</svg>

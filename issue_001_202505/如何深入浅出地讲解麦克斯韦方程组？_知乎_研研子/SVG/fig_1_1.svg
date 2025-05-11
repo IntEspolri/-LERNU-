@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层_2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 565.16 104.77">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 1.7em;
+      }
+
+      .cls-2 {
+        font-size: 12px;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        fill: #231815;
+      }
+
+      .cls-2, .cls-4 {
+        font-family: MicrosoftYaHeiLight, 'Microsoft YaHei';
+      }
+
+      .cls-5, .cls-6 {
+        fill: none;
+      }
+
+      .cls-4 {
+        font-size: 10px;
+      }
+
+      .cls-6 {
+        stroke: #231815;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-7 {
+        letter-spacing: 2.7em;
+      }
+    </style>
+  </defs>
+  <g id="_图层_1-2" data-name="图层_1">
+    <text class="cls-2" transform="translate(226.32 35.8)"><tspan x="0" y="0">力</tspan><tspan class="cls-1" x="12" y="0">	</tspan><tspan class="cls-7" x="36" y="0">	</tspan><tspan x="72" y="0">能</tspan><tspan x="0" y="43.2">场</tspan><tspan class="cls-1" x="12" y="43.2">	</tspan><tspan class="cls-7" x="36" y="43.2">	</tspan><tspan x="72" y="43.2">势</tspan></text>
+    <g>
+      <path class="cls-6" d="M241.55,25.86c.51-.75,7.94-13.84,26.84-13.98,7.26-.05,14.65,4.36,19.7,8.24"/>
+      <path class="cls-3" d="M286.65,19.05l.68-4.16.15.02,2.94,5.6c1.26,1.67,2.52,3.35,3.78,5.02-1.85-.99-3.69-1.98-5.54-2.97l-5.98-2.06-.05-.13,4.02-1.32Z"/>
+    </g>
+    <g>
+      <path class="cls-6" d="M294.19,80.76c-.52.74-8.09,13.75-26.99,13.68-7.26-.03-14.6-4.52-19.61-8.46"/>
+      <path class="cls-3" d="M249.02,87.07l-.73,4.15-.15-.02-2.88-5.63c-1.24-1.69-2.48-3.38-3.72-5.07,1.84,1.01,3.67,2.02,5.51,3.04l5.95,2.12.05.13-4.04,1.28Z"/>
+    </g>
+    <line class="cls-6" x1="231.74" y1="40.78" x2="231.74" y2="68.14"/>
+    <line class="cls-6" x1="305.55" y1="40.79" x2="305.55" y2="68.14"/>
+    <text class="cls-4" transform="translate(255.7 25.86)"><tspan x="0" y="0">积分</tspan></text>
+    <text class="cls-4" transform="translate(258.19 87.48)"><tspan x="0" y="0">微分</tspan></text>
+    <rect class="cls-5" width="565.16" height="104.77"/>
+  </g>
+</svg>

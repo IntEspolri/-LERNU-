@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层_2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 725.42 330.32">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 18px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #231815;
+      }
+
+      .cls-1, .cls-3 {
+        font-family: MicrosoftYaHei, 'Microsoft YaHei';
+      }
+
+      .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-5 {
+        stroke: #231815;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        font-size: 11px;
+      }
+    </style>
+  </defs>
+  <g id="_图层_1-2" data-name="图层_1">
+    <text class="cls-1" transform="translate(111.74 80.99)"><tspan x="0" y="0">集合</tspan></text>
+    <text class="cls-1" transform="translate(183.21 80.99)"><tspan x="0" y="0">原群</tspan></text>
+    <text class="cls-1" transform="translate(249.13 55.74)"><tspan x="0" y="0">幺原群</tspan></text>
+    <text class="cls-1" transform="translate(250.39 113.28)"><tspan x="0" y="0">半群</tspan></text>
+    <text class="cls-1" transform="translate(326.71 80.99)"><tspan x="0" y="0">幺半群</tspan></text>
+    <text class="cls-1" transform="translate(426.85 80.99)"><tspan x="0" y="0">群</tspan></text>
+    <text class="cls-1" transform="translate(490.63 80.99)"><tspan x="0" y="0">Abel群</tspan></text>
+    <text class="cls-1" transform="translate(509.02 182.98)"><tspan x="0" y="0">环</tspan></text>
+    <text class="cls-1" transform="translate(412.59 182.98)"><tspan x="0" y="0">交换环</tspan></text>
+    <text class="cls-1" transform="translate(426.94 227.61)"><tspan x="0" y="0">幺环</tspan></text>
+    <text class="cls-1" transform="translate(225.35 227.61)"><tspan x="0" y="0">整环</tspan></text>
+    <text class="cls-1" transform="translate(161.63 227.61)"><tspan x="0" y="0">域</tspan></text>
+    <text class="cls-1" transform="translate(123.64 278.3)"><tspan x="0" y="0">向量空间</tspan></text>
+    <text class="cls-1" transform="translate(542.81 240.59)"><tspan x="0" y="0">模</tspan></text>
+    <g>
+      <line class="cls-5" x1="150.77" y1="74.77" x2="176.28" y2="74.77"/>
+      <polygon class="cls-2" points="183.34 74.77 173.39 78.83 175.75 74.77 173.39 70.7 183.34 74.77"/>
+    </g>
+    <g>
+      <line class="cls-5" x1="221.94" y1="68.13" x2="239.91" y2="58.95"/>
+      <polygon class="cls-2" points="246.19 55.74 239.18 63.89 239.44 59.19 235.48 56.65 246.19 55.74"/>
+    </g>
+    <g>
+      <line class="cls-5" x1="218.97" y1="83.3" x2="242.85" y2="103.33"/>
+      <polygon class="cls-2" points="248.26 107.87 238.02 104.59 242.44 102.99 243.25 98.36 248.26 107.87"/>
+    </g>
+    <g>
+      <line class="cls-5" x1="288.52" y1="107.35" x2="319.21" y2="87.77"/>
+      <polygon class="cls-2" points="325.16 83.98 318.96 92.75 318.76 88.06 314.59 85.9 325.16 83.98"/>
+    </g>
+    <g>
+      <line class="cls-5" x1="306.84" y1="55.74" x2="322.01" y2="65.38"/>
+      <polygon class="cls-2" points="327.98 69.16 317.4 67.26 321.57 65.09 321.75 60.4 327.98 69.16"/>
+    </g>
+    <g>
+      <line class="cls-5" x1="382.45" y1="74.77" x2="416.68" y2="74.77"/>
+      <polygon class="cls-2" points="423.74 74.77 413.79 78.83 416.15 74.77 413.79 70.7 423.74 74.77"/>
+    </g>
+    <g>
+      <line class="cls-5" x1="448" y1="74.77" x2="483.77" y2="74.77"/>
+      <polygon class="cls-2" points="490.84 74.77 480.89 78.83 483.25 74.77 480.89 70.7 490.84 74.77"/>
+    </g>
+    <g>
+      <line class="cls-5" x1="517.68" y1="83.46" x2="517.68" y2="159.65"/>
+      <polygon class="cls-2" points="517.68 166.71 513.61 156.76 517.68 159.12 521.74 156.76 517.68 166.71"/>
+    </g>
+    <text class="cls-3" transform="translate(139.65 70.68)"><tspan x="0" y="0">“加法”</tspan></text>
+    <text class="cls-3" transform="translate(200.15 58.18)"><tspan x="0" y="0">单位元</tspan></text>
+    <text class="cls-3" transform="translate(313.94 58.18)"><tspan x="0" y="0">结合律</tspan></text>
+    <text class="cls-3" transform="translate(306.84 106.57)"><tspan x="0" y="0">单位元</tspan></text>
+    <text class="cls-3" transform="translate(200.37 106.57)"><tspan x="0" y="0">结合律</tspan></text>
+    <text class="cls-3" transform="translate(390.23 70.68)"><tspan x="0" y="0">逆元</tspan></text>
+    <text class="cls-3" transform="translate(448 70.68)"><tspan x="0" y="0">交换律</tspan></text>
+    <text class="cls-1" transform="translate(250.39 159.17)"><tspan x="0" y="0">准群</tspan></text>
+    <text class="cls-1" transform="translate(377.34 128.7)"><tspan x="0" y="0">圈</tspan></text>
+    <text class="cls-1" transform="translate(339.69 159.17)"><tspan x="0" y="0">逆半群</tspan></text>
+    <g>
+      <line class="cls-5" x1="397.42" y1="120.26" x2="422.19" y2="92.97"/>
+      <polygon class="cls-2" points="426.94 87.74 423.26 97.84 421.84 93.36 417.24 92.38 426.94 87.74"/>
+    </g>
+    <g>
+      <line class="cls-5" x1="396.9" y1="153.8" x2="431.6" y2="92.85"/>
+      <polygon class="cls-2" points="435.1 86.71 433.71 97.37 431.34 93.3 426.64 93.35 435.1 86.71"/>
+    </g>
+    <g>
+      <path class="cls-5" d="M188.39,88.26c-1.2,4.6-5.04,21.57,4.13,38.19,8.94,16.2,27.02,26.23,47.14,26.59"/>
+      <polygon class="cls-2" points="246.71 152.77 236.88 157.13 239.12 153 236.65 149 246.71 152.77"/>
+    </g>
+    <g>
+      <line class="cls-5" x1="289.1" y1="153.05" x2="329.46" y2="153.05"/>
+      <polygon class="cls-2" points="336.52 153.05 326.57 157.12 328.93 153.05 326.57 148.99 336.52 153.05"/>
+    </g>
+    <g>
+      <line class="cls-5" x1="289.1" y1="143.73" x2="369.35" y2="126.56"/>
+      <polygon class="cls-2" points="376.26 125.08 367.38 131.14 368.84 126.67 365.68 123.19 376.26 125.08"/>
+    </g>
+    <g>
+      <line class="cls-5" x1="286.15" y1="115.59" x2="352.24" y2="139.06"/>
+      <polygon class="cls-2" points="358.9 141.42 348.16 141.92 351.75 138.88 350.88 134.26 358.9 141.42"/>
+    </g>
+    <g>
+      <path class="cls-5" d="M305.03,38.71c62.19-22.98,77.49-16.18,82.06-9.81,3.87,5.39,1.27,12.19-1.03,35.61-1.5,15.25-1.97,28.35-2.06,38.36"/>
+      <polygon class="cls-2" points="384 109.94 380.09 99.93 384.11 102.35 388.21 100.05 384 109.94"/>
+    </g>
+    <text class="cls-3" transform="translate(358.9 37.52)"><tspan x="0" y="0">逆元</tspan></text>
+    <text class="cls-3" transform="translate(316.98 123.09)"><tspan x="0" y="0">逆元</tspan></text>
+    <text class="cls-3" transform="translate(203.5 136.79)"><tspan x="0" y="0">逆元</tspan></text>
+    <text class="cls-3" transform="translate(277.45 136.79)"><tspan x="0" y="0">单位元</tspan></text>
+    <text class="cls-3" transform="translate(419.69 128.7)"><tspan x="0" y="0">单位元</tspan></text>
+    <text class="cls-3" transform="translate(393.44 98.21)"><tspan x="0" y="0">结合</tspan><tspan x="0" y="13.2">律</tspan></text>
+    <text class="cls-3" transform="translate(291.62 164.68)"><tspan x="0" y="0">结合律</tspan></text>
+    <g>
+      <line class="cls-5" x1="131.26" y1="85.68" x2="131.26" y2="131.2"/>
+      <polygon class="cls-2" points="131.26 138.26 127.19 128.31 131.26 130.67 135.32 128.31 131.26 138.26"/>
+    </g>
+    <text class="cls-1" transform="translate(123.39 153.8)"><tspan x="0" y="0">格</tspan></text>
+    <text class="cls-3" transform="translate(82.45 106.57)"><tspan x="0" y="0">偏序</tspan><tspan x="0" y="13.2">上下确界</tspan></text>
+    <text class="cls-3" transform="translate(522.12 110.56)"><tspan x="0" y="0">“乘法”</tspan><tspan x="0" y="13.2">结合律</tspan><tspan x="0" y="26.4">分配律</tspan></text>
+    <g>
+      <line class="cls-5" x1="506.85" y1="175.52" x2="476.48" y2="175.07"/>
+      <polygon class="cls-2" points="469.42 174.97 479.43 171.05 477.01 175.08 479.31 179.18 469.42 174.97"/>
+    </g>
+    <g>
+      <line class="cls-5" x1="512" y1="185.28" x2="470.93" y2="215.2"/>
+      <polygon class="cls-2" points="465.23 219.35 470.87 210.21 471.36 214.89 475.66 216.78 465.23 219.35"/>
+    </g>
+    <g>
+      <line class="cls-5" x1="412.08" y1="177.55" x2="370.25" y2="205.61"/>
+      <polygon class="cls-2" points="364.39 209.55 370.38 200.63 370.69 205.32 374.91 207.38 364.39 209.55"/>
+    </g>
+    <g>
+      <line class="cls-5" x1="423.74" y1="221.94" x2="378.67" y2="221.49"/>
+      <polygon class="cls-2" points="371.61 221.42 381.6 217.45 379.2 221.49 381.52 225.58 371.61 221.42"/>
+    </g>
+    <text class="cls-1" transform="translate(298.3 227.61)"><tspan x="0" y="0">交换幺环</tspan></text>
+    <g>
+      <line class="cls-5" x1="222.97" y1="221.68" x2="190.4" y2="221.68"/>
+      <polygon class="cls-2" points="183.34 221.68 193.29 217.61 190.93 221.68 193.29 225.74 183.34 221.68"/>
+    </g>
+    <g>
+      <line class="cls-5" x1="296.26" y1="221.73" x2="268.16" y2="221.64"/>
+      <polygon class="cls-2" points="261.09 221.61 271.06 217.58 268.68 221.64 271.03 225.71 261.09 221.61"/>
+    </g>
+    <path class="cls-5" d="M526.59,187.92c-2.6,1.46,1.72,9.5,3.15,25.66,1.51,17.14-.5,23.62,3.28,31.8,3.32,7.21,10.22,13.87,22.48,13.25,10.82-.55,20.56-9.12,22.19-19.1,1.78-10.89-11.08-23.22-14.68-26.89-6.16-6.28-8.91-7.33-20.02-14.97-13.52-9.29-13.8-11.21-16.39-9.76Z"/>
+    <path class="cls-5" d="M168.26,234.32c-6.97-2.21-10.8,4.94-26.32,10.84-14.8,5.63-19,2.06-24.77,7.23-8.67,7.77-9.83,25.38-3.61,36.65,12.81,23.23,60.98,26.81,82.58,5.68,9.51-9.3,16.14-25.62,10.84-33.55-4.67-6.98-15.25-2.48-26.32-12.39-7.72-6.91-6.45-12.57-12.39-14.45Z"/>
+    <g>
+      <line class="cls-5" x1="203.88" y1="271.28" x2="539.87" y2="237.42"/>
+      <polygon class="cls-2" points="196.85 271.98 207.16 275.03 204.4 271.22 206.34 266.94 196.85 271.98"/>
+    </g>
+    <text class="cls-3" transform="translate(476.04 171.28)"><tspan x="0" y="0">交换律</tspan></text>
+    <text class="cls-3" transform="translate(388.23 217.35)"><tspan x="0" y="0">交换律</tspan></text>
+    <text class="cls-3" transform="translate(452.54 202.32)"><tspan x="0" y="0">单位元</tspan></text>
+    <text class="cls-3" transform="translate(352.9 193.09)"><tspan x="0" y="0">单位元</tspan></text>
+    <text class="cls-3" transform="translate(264.47 217.35)"><tspan x="0" y="0">无零元*</tspan></text>
+    <text class="cls-3" transform="translate(194.55 217.35)"><tspan x="0" y="0">逆元</tspan></text>
+    <text class="cls-3" transform="translate(242.18 258.67)"><tspan x="0" y="0">在域上构造</tspan></text>
+    <rect class="cls-4" width="725.42" height="330.32"/>
+  </g>
+</svg>

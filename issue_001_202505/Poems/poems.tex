@@ -1,0 +1,163 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Poem
+% LaTeX Template
+% Version 1.0 (2/11/2015)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Vel (vel@latextemplates.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+% General notes:
+% 1) All lines in a verse environment must end with \\, the last verse in a stanza
+% must end in \\!
+% 2) This template is based on the verse package, see the package documentation
+% included with the template for further customisation options
+% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	DOCUMENT CONFIGURATIONS AND INFORMATION
+%----------------------------------------------------------------------------------------
+
+\documentclass[11pt, a4paper]{article} % Document font size and paper size
+
+\usepackage{verse} % Required for typesetting poems - this package drives this template
+
+\usepackage[T1]{fontenc} % International character encodings
+\usepackage{palatino} % Use the Palatino font by default
+%\usepackage{stix} % Alternative Stix font
+
+\setlength{\parindent}{0pt} % Disable paragraph indentation
+
+% Author styles
+\newcommand{\poemauthorcenter}[1]{\nopagebreak{\centering\footnotesize\textsc{#1}\par}} % Author as a footnote at the end of the poem center aligned
+\newcommand{\poemauthorright}[1]{\nopagebreak{\raggedleft\footnotesize\textsc{#1}\par}} % Author as a footnote at the end of the poem aligned right
+
+\renewcommand{\poemtitlefont}{\normalfont\bfseries\large\centering} % Define the poem title style
+
+\setlength{\stanzaskip}{0.75\baselineskip} % The distance between stanzas
+
+\pagestyle{empty} % Stop page numbering through the document
+
+\begin{document}
+
+
+%----------------------------------------------------------------------------------------
+%	POEM ONE
+%----------------------------------------------------------------------------------------
+
+\poemtitle{I.Sonnet: UNSNOWED DAWN}
+
+\poemauthorcenter{by Evortexio Axleron} % Centered author
+
+\settowidth{\versewidth}{Repeating magicians' jugglery that was boring} % Insert one of the average-sized verses, used for centering the poem
+
+\indentpattern{01100110 010101} % Specify the indenting to use in this poem, a value of 0 means no indent, 1 is one 'tab' character, 2 is two 'tab' characters, etc; each number corresponds to a line
+
+%------------------------------------------------
+
+\begin{verse}[\versewidth]
+
+\begin{patverse} % This environment indents based on the specified pattern in \indentpattern
+
+Leaving the hall was the last lamp, \\
+It made its way through belated darkness. \\
+Patterns on the flag were falling in their sighs. \\
+In its sorrow was the air's tramp \\
+And a sallow firmament by the end of a slype \\
+Like in a meadow the sheep wears. \\
+Gray branches murmured in their advance. \\
+Winds subsided. Dust stopped its hurried step. \\!
+
+A black bowler tumbled on the lane of brick, \\
+Repeating magicians' jugglery that was boring, \\
+Like from the clouds a bird sank \\
+On the arid wavy land it was floating. \\
+Suddenly it rang, with brightness's flick \\
+Which was diamond dusts dropping into gasping. \\!
+
+\end{patverse}
+
+\end{verse}
+
+%----------------------------------------------------------------------------------------
+
+\newpage
+
+%----------------------------------------------------------------------------------------
+%	POEM TWO
+%----------------------------------------------------------------------------------------
+
+\poemtitle{II.Free Verse: A LEAF OF LETTER}
+
+\settowidth{\versewidth}{The letter shook with dust fallen afloat} % Insert one of the average-sized verses, used for centering the poem
+
+\begin{verse}[\versewidth]
+
+%------------------------------------------------
+
+An uncovered letter bent its shape, \\
+Hobbling its way on the desktop \\
+With steady breath far away \\
+And secrets not to say. \\!
+
+%------------------------------------------------
+
+He came. \\
+The letter shook with dust fallen afloat, \\
+Glowing in heat wave to be bright \\
+When yellowish wrinkles discolored into pale white. \\!
+
+\end{verse}
+
+%------------------------------------------------
+
+\poemauthorright{by Evortexio Axleron} % Right-aligned author
+
+%----------------------------------------------------------------------------------------
+
+\newpage
+
+%----------------------------------------------------------------------------------------
+%	POEM THREE
+%----------------------------------------------------------------------------------------
+
+\poemtitle{III.Blank Verse: AFTER THE SKY}
+
+\settowidth{\versewidth}{Crunching along line beneath leaving boots} % Insert one of the average-sized verses, used for centering the poem
+
+\begin{verse}[\versewidth]
+	
+	%------------------------------------------------
+	
+	Black and white entwines among the cups, \\
+	In which coffee gambols \\
+	As the fish's tremor in the mid of lake \\
+	Reflecting its damp shape on the lantern. \\!
+	
+	%------------------------------------------------
+	
+	Snowflakes hesitate in their descent, \\
+	Crunching along a line beneath leaving boots. \\
+	Wind plays the fingers of the world, \\
+	Fondling on the ice with its scuffs. \\!
+	
+	Clouds vanish into the backdrop. \\
+	Overflown moonlight from snowscape soaks treetop. \\
+	It dissolves in teal of inverted lake \\
+	Before it turns into sediment.\\!
+	
+\end{verse}
+
+%------------------------------------------------
+
+\poemauthorright{by Evortexio Axleron} % Right-aligned author
+
+%----------------------------------------------------------------------------------------
+
+\end{document}

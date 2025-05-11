@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层_2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 563 200.78">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: AdobeSongStd-Light-GBpc-EUC-H, 'Adobe Song Std';
+        font-weight: 300;
+      }
+
+      .cls-2 {
+        font-size: 24px;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        fill: #231815;
+      }
+
+      .cls-7, .cls-8, .cls-9 {
+        fill: none;
+      }
+
+      .cls-8 {
+        stroke-dasharray: 11.39 11.39;
+      }
+
+      .cls-8, .cls-9 {
+        stroke: #231815;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        font-size: 12px;
+      }
+
+      .cls-3, .cls-10, .cls-6 {
+        font-family: 'KaTeX_Main-Italic', KaTeX_Main;
+        font-style: italic;
+      }
+
+      .cls-5 {
+        font-family: 'KaTeX_Main-Bold', KaTeX_Main;
+        font-size: 21px;
+        font-weight: 700;
+      }
+
+      .cls-6 {
+        font-size: 18px;
+      }
+    </style>
+  </defs>
+  <g id="_图层_1-2" data-name="图层_1">
+    <g>
+      <line class="cls-9" x1="264" y1="200.39" x2="268.69" y2="196.64"/>
+      <line class="cls-8" x1="277.58" y1="189.53" x2="379.87" y2="107.7"/>
+      <polyline class="cls-9" points="384.31 104.14 389 100.39 384.31 96.64"/>
+      <line class="cls-8" x1="375.42" y1="89.53" x2="273.13" y2="7.7"/>
+      <line class="cls-9" x1="268.69" y1="4.14" x2="264" y2=".39"/>
+    </g>
+    <polyline class="cls-9" points="264 .39 139 100.39 264 200.39"/>
+    <polyline class="cls-9" points="189 140.39 239 100.39 189 60.39"/>
+    <polyline class="cls-9" points="239 100.39 289 60.39 239 20.39"/>
+    <polyline class="cls-9" points="239 180.39 289 140.39 239 100.39"/>
+    <text class="cls-5" transform="translate(306.64 100.39)"><tspan x="0" y="0">…</tspan></text>
+    <text class="cls-5" transform="translate(271.95 39.12)"><tspan x="0" y="0">…</tspan></text>
+    <text class="cls-5" transform="translate(273.5 165.98)"><tspan x="0" y="0">…</tspan></text>
+    <text class="cls-2" transform="translate(166 105.39)"><tspan class="cls-1" x="0" y="0">·</tspan><tspan class="cls-10" x="24" y="0">e</tspan></text>
+    <text class="cls-2" transform="translate(214 65.59)"><tspan class="cls-1" x="0" y="0">·</tspan><tspan class="cls-10" x="24" y="0">a</tspan></text>
+    <text class="cls-2" transform="translate(214 148.88)"><tspan class="cls-1" x="0" y="0">·</tspan><tspan class="cls-10" x="24" y="0">b</tspan></text>
+    <text class="cls-3" transform="translate(184.41 134.3)"><tspan x="0" y="0">H</tspan></text>
+    <text class="cls-3" transform="translate(232.5 89.48)"><tspan x="0" y="0">aH</tspan></text>
+    <text class="cls-3" transform="translate(231.2 172.75)"><tspan x="0" y="0">bH</tspan></text>
+    <g>
+      <path class="cls-9" d="M179,86.39c-5.43-15.43,1.04-31.36,13-37,7.61-3.59,15.4-2.05,20.66-.1"/>
+      <polygon class="cls-4" points="219 52.39 208.27 51.87 212.12 49.18 211.7 44.5 219 52.39"/>
+    </g>
+    <g>
+      <path class="cls-9" d="M178,102.39c-14.79,17.42-9.97,41.59,4,50,9.24,5.56,22.79,4.43,33.66-3.37"/>
+      <polygon class="cls-4" points="221 144.39 216.01 153.91 215.2 149.28 210.77 147.69 221 144.39"/>
+    </g>
+    <text class="cls-6" transform="translate(176.68 47.23)"><tspan x="0" y="0">a</tspan></text>
+    <text class="cls-6" transform="translate(168.96 165.98)"><tspan x="0" y="0">b</tspan></text>
+    <rect class="cls-7" y=".39" width="563" height="200"/>
+  </g>
+</svg>

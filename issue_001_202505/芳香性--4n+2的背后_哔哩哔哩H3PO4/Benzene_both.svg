@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="95"
+   height="52"
+   id="svg6760"
+   sodipodi:version="0.32"
+   inkscape:version="0.44.1"
+   version="1.0"
+   sodipodi:docbase="C:\Documents and Settings\Owner\My Documents\Pictures\SVG work"
+   sodipodi:docname="benzene both.svg">
+  <defs
+     id="defs6762" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.5"
+     inkscape:cx="44"
+     inkscape:cy="30.681291"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     width="95px"
+     height="52px"
+     inkscape:window-width="853"
+     inkscape:window-height="573"
+     inkscape:window-x="296"
+     inkscape:window-y="20" />
+  <metadata
+     id="metadata6765">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(52.84489,23.79371)">
+    <g
+       id="g7044"
+       transform="translate(1.109679,0.739517)">
+      <g
+         id="g7028">
+        <g
+           font-size="12pt"
+           transform="matrix(0.9375,0,0,0.9375,-243.7983,-207.7919)"
+           id="g2981"
+           style="font-size:15px;stroke-linecap:round;font-family:Helvetica">
+          <g
+             id="g2983"
+             style="stroke:black;stroke-width:1">
+            <line
+               x1="250"
+               x2="250"
+               y1="210"
+               y2="236.4185"
+               id="line2985" />
+          </g>
+          <g
+             id="g2987"
+             style="stroke:black;stroke-width:1">
+            <line
+               x1="227.09183"
+               x2="250"
+               y1="196.76474"
+               y2="210"
+               id="line2989" />
+          </g>
+          <g
+             id="g2993"
+             style="stroke:black;stroke-width:1">
+            <line
+               x1="204.18364"
+               x2="204.18364"
+               y1="210"
+               y2="236.4185"
+               id="line2995" />
+          </g>
+          <g
+             id="g2999"
+             style="stroke:black;stroke-width:1">
+            <line
+               x1="204.18364"
+               x2="227.09183"
+               y1="210"
+               y2="196.76474"
+               id="line3001" />
+          </g>
+          <g
+             id="g3003"
+             style="stroke:black;stroke-width:1">
+            <line
+               x1="204.18364"
+               x2="227.09183"
+               y1="236.4185"
+               y2="249.65376"
+               id="line3005" />
+          </g>
+          <g
+             id="g3007"
+             style="stroke:black;stroke-width:1">
+            <line
+               x1="250"
+               x2="227.09183"
+               y1="236.4185"
+               y2="249.65376"
+               id="line3009" />
+          </g>
+        </g>
+        <path
+           sodipodi:type="arc"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:black;stroke-width:0.99946678;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path3905"
+           sodipodi:cx="36.955139"
+           sodipodi:cy="35.106022"
+           sodipodi:rx="19"
+           sodipodi:ry="19"
+           d="M 55.955139 35.106022 A 19 19 0 1 1  17.955139,35.106022 A 19 19 0 1 1  55.955139 35.106022 z"
+           transform="matrix(0.9375,0,0,0.9375,-65.54513,-31.44511)" />
+      </g>
+      <g
+         style="font-size:15px;stroke-linecap:round;font-family:Helvetica"
+         id="g6900"
+         transform="matrix(0.9375,0,0,0.9375,-194.908,-207.7919)"
+         font-size="12pt">
+        <g
+           style="stroke:black;stroke-width:1"
+           id="g6902">
+          <line
+             id="line6904"
+             y2="236.4185"
+             y1="210"
+             x2="250"
+             x1="250" />
+        </g>
+        <g
+           style="stroke:black;stroke-width:1"
+           id="g6906">
+          <line
+             id="line6908"
+             y2="210"
+             y1="196.76474"
+             x2="250"
+             x1="227.09183" />
+          <line
+             id="line6910"
+             y2="213.54083"
+             y1="203.6144"
+             x2="244.1349"
+             x1="226.95378" />
+        </g>
+        <g
+           style="stroke:black;stroke-width:1"
+           id="g6912">
+          <line
+             id="line6914"
+             y2="236.4185"
+             y1="210"
+             x2="204.18364"
+             x1="204.18364" />
+          <line
+             id="line6916"
+             y2="233.1162"
+             y1="213.30231"
+             x2="210.18364"
+             x1="210.18364" />
+        </g>
+        <g
+           style="stroke:black;stroke-width:1"
+           id="g6918">
+          <line
+             id="line6920"
+             y2="196.76474"
+             y1="210"
+             x2="227.09183"
+             x1="204.18364" />
+        </g>
+        <g
+           style="stroke:black;stroke-width:1"
+           id="g6922">
+          <line
+             id="line6924"
+             y2="249.65376"
+             y1="236.4185"
+             x2="227.09183"
+             x1="204.18364" />
+        </g>
+        <g
+           style="stroke:black;stroke-width:1"
+           id="g6926">
+          <line
+             id="line6928"
+             y2="249.65376"
+             y1="236.4185"
+             x2="227.09183"
+             x1="250" />
+          <line
+             id="line6930"
+             y2="242.80411"
+             y1="232.87767"
+             x2="226.95378"
+             x1="244.1349" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
